@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Pedrogouveia77/pedrogouveia77/main/q.png
+    <img src="https://raw.githubusercontent.com/pedrogouveia77/pedrogouveia77/main/ChatGPT%20Image%209%20de%20abr.%20de%202025%2C%2013_45_25.png" />
 </p>
 
 <h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
