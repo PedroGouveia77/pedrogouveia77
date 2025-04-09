@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pedrogouveia77/Pedrogouveia77/main/assets/github-banner.png" alt="Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/Pedrogouveia77/pedrogouveia77/main/q.png
 </p>
 
 <h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
