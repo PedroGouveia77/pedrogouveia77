@@ -28,7 +28,7 @@ Curioso por natureza e apaixonado por resolver problemas com código!
 
 ## 📫 Onde me encontrar
 
-<a href="mailto:francine.c.oliveiracruz@gmail.com">
+<a href="mailto:pedro.gouveiam7@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a> 
   <a href="https://linkedin.com/in/pedrohenriquegouveia/">
