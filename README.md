@@ -23,7 +23,6 @@ Curioso por natureza e apaixonado por resolver problemas com código!
   ---
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogouveia77&layout=compact&langs_count=20&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrogouveia77&theme=tokyonight" />
 
 
 ## 📫 Onde me encontrar
